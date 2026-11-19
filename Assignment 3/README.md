@@ -1,9 +1,9 @@
 # CSA09 Assignment 3 – Exception Handling and Multithreading
 
-**Student Name:** ________________________  
-**Register Number:** ________________________  
+**Student Name:** B.Muni chandini  
+**Register Number:** 192524283 
 **Java Version:** 17 (or the version you used in Eclipse)  
-**Mode:** Pair Work  
+**Mode:** pair Work  
 
 ---
 
